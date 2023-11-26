@@ -10,4 +10,5 @@ This repository contains solutions I have created for programming algorithms, da
 There are solutions in this repository for the following platforms.
 
 ### [LeetCode](http://leetcode.com)
+* [6. Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 * [929. Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/)

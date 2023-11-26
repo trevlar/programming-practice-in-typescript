@@ -1,4 +1,4 @@
-import { numUniqueEmails } from './unique-email-addresses';
+import { numUniqueEmails } from './929-unique-email-addresses';
 
 describe('number of unique emails', () => {
   it('should get 2 unique emails after cleanup.', () => {
